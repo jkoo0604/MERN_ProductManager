@@ -1,0 +1,21 @@
+.container {
+    margin: auto;
+    width: 700px;
+    padding-top: 20px;
+}
+
+.svg {
+    padding-left: 5px;
+    vertical-align: middle;
+}
+
+.delete {
+width: 1.3em;
+height: 1.3em;
+cursor: pointer;
+}
+
+.edit {
+width: 1.2em;
+height: 1.2em;
+}
